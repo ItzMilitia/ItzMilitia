@@ -48,12 +48,3 @@ Critical Thinking: Skilled in evaluating information from multiple sources to ma
 Communication: Strong ability to convey complex technical concepts to diverse audiences.
 
 Teamwork: Collaborative team player with experience in agile and cross-functional environments.
-
-✨ Analytical & Soft Skills
-Problem-Solving: Adept at analyzing complex problems to develop effective, creative solutions.
-
-Critical Thinking: Skilled in evaluating information from multiple sources to make informed decisions.
-
-Communication: Strong ability to convey complex technical concepts to diverse audiences.
-
-Teamwork: Collaborative team player with experience in agile and cross-functional environments.
