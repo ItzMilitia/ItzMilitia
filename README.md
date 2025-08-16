@@ -1,5 +1,4 @@
 # Uzair-Ahmad
-My Profile
 🚀Welcome to My GitHub Profile!
 Hello! I'm UZAIR AHMAD, a passionate developer and cloud practitioner. This profile provides a summary of my skills in software development, data analysis, and cloud technologies.
 
